@@ -1,0 +1,6 @@
+title: 拾光手记
+description: 我的个人资料库
+markdown: kramdown
+permalink: /notes/:year/:month/:day/:title/
+timezone: Asia/Shanghai
+exclude: [README.md]
